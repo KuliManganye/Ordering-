@@ -1,4 +1,4 @@
-# This program is to create a program that adds up the bill for ordering pizza according to the specifications the user inputs
+# This code is to create a program that adds up the bill for ordering pizza according to the specifications the user inputs
 
 
 print("Welcome to Python Pizza Deliveries")
